@@ -9,8 +9,7 @@
         <div class="sub-page">
             <div class="navigation-bar">
                 <div class="logo">
-                    <a href='photography.html'>Seek Coding</a>
-                </div>
+            </div>
                 <nav>
                     <ul id='MenuItems'>
                         <li><a href='#'>Home</a></li>
